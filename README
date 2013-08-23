@@ -1,0 +1,7 @@
+README
+
+This is an sh script, so run it on the commandline by cd'ing into the directory it's in, and then running 'sh sysinfo.sh' without the quotes.
+
+It's a dirty little script I cooked up because of how often I needed a quick glance at several computers and their information.
+
+It doesn't pause, it is basically a rolling splash screen. Waits for 10s between moments, and then, it runs onto the next, and clears the screen.
